@@ -1,4 +1,4 @@
 tv-authorities
 ==============
 
-My first repository.
+A workspace for fresh taxonomy and vocabulary control in the land of the television.
